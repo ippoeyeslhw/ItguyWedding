@@ -8,6 +8,17 @@ p{
 	font-size: 1.5em;
 }
 
+.invitation-small{
+	text-align: center;
+	text-decoration: underline;
+	font-size: 0.8em;
+}
+.invitation-large{
+	text-align: center;
+	text-decoration: underline;
+	font-size: 1.7em;
+}
+
 
 .cblue{
 	color: #87B4D4;
