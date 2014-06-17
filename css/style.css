@@ -16,21 +16,43 @@ p{
 .invitation-small{
 	text-align: center;
 	text-decoration: underline;
-	font-size: 0.8em;
+	font-size: 1.0em;
 }
 .invitation-large{
 	text-align: center;
-	text-decoration: underline;
-	font-size: 1.7em;
+	
+	font-size: 2.4em;
+}
+.invitation-box{
+	text-align: center;
+}
+.black-box{
+	background-color: black;
 }
 
-
+.cwhite{
+	color: white;
+}
 .cblue{
 	color: #87B4D4;
 }
 .cred{
 	color: #DB4251;
 }
+.c9line{
+	font-weight: bold;
+	color: #BF9B20;
+}
+.c5line{
+	color: #4B007D;
+}
+.cbusblue{
+	color: #0000FF;
+}
+.cbusgreen{
+	color: #009900;
+}
+
 
 .slides_template{
 	position: relative;
@@ -310,4 +332,9 @@ p{
 	background-size: 100% ;
 	background-position: 50% 50%;
 	background-repeat: no-repeat;
+}
+
+.info-template{
+	width: 95%;
+	margin: 0 auto;
 }
